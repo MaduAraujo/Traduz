@@ -350,12 +350,7 @@ Este projeto foi desenvolvido para o **Hackathon Joule 2025**.
 
 ---
 
-## 📞 Suporte
-
-- 🐛 **Issues**: [GitHub Issues](https://github.com/Kaykbr/hackatonjouletest/issues)
-- 📧 **Email**: kaykybritosilva23@gmail.com
-
----
+## Projeto desenvolvido em equipe para o Hackathon Joule 2025. Repositório original: github.com/Kaykbr/hackatonjouletest
 
 <div align="center">
   
