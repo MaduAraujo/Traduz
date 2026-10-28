@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🚀 AI Career Architect
+  # 🚀 TRADUZ
   
   ### Sua Carreira Potencializada por IA
   
