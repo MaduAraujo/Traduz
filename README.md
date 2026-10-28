@@ -350,7 +350,10 @@ Este projeto foi desenvolvido para o **Hackathon Joule 2025**.
 
 ---
 
-## Projeto desenvolvido em equipe para o Hackathon Joule 2025. Repositório original: github.com/Kaykbr/hackatonjouletest
+**Projeto desenvolvido em equipe para o Hackathon Joule 2025.**<br>
+Repositório original: github.com/Kaykbr/hackatonjouletest
+
+---
 
 <div align="center">
   
