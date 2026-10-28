@@ -15,6 +15,11 @@
 
 ---
 
+ **Projeto desenvolvido em equipe para o Hackathon Joule 2025.**<br>
+  Repositório original: github.com/Kaykbr/hackatonjouletest
+
+---
+
 ## 📖 Sobre o Projeto
 
 **TRADUZ** é uma plataforma revolucionária de consultoria de carreira, alimentada pelo **Google Gemini 3.0 Preview** - o modelo de linguagem mais avançado do Google. O sistema realiza análise profunda do perfil profissional do usuário através de uma entrevista inteligente, gerando insights acionáveis, identificando lacunas de competências e criando um plano estratégico completo de desenvolvimento de carreira.
@@ -347,11 +352,6 @@ Este projeto foi desenvolvido para o **Hackathon Joule 2025**.
 - [ ] Sistema de templates de currículo customizáveis
 - [ ] Modo offline com cache de análises (IndexedDB)
 - [ ] Testes automatizados (Vitest + React Testing Library)
-
----
-
-**Projeto desenvolvido em equipe para o Hackathon Joule 2025.**<br>
-Repositório original: github.com/Kaykbr/hackatonjouletest
 
 ---
 
