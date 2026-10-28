@@ -15,7 +15,7 @@
 
 ---
 
- **Projeto desenvolvido em equipe para o Hackathon Joule 2025.**<br>
+ **Projeto desenvolvido em equipe para o Hackathon Joule 2025 — 1º lugar.**<br>
   Repositório original: github.com/Kaykbr/hackatonjouletest
 
 ---
